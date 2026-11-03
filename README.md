@@ -23,7 +23,7 @@ Soal lengkap: [Midterm Project.pdf](Midterm%20Project.pdf)
 - [x] **Davu** — data sudah diunduh & dibersihkan, kerangka notebook siap (lulus Run All), draf Bab 1–2 di [laporan/Bab1_2_Davu.md](laporan/Bab1_2_Davu.md)
 - [x] **Raffa** — Line & Area Plot (bagian 3.1–3.2 notebook)
 - [x] **Tristan** — Multiple Time Series & Seasonal/Heatmap (bagian 3.3–3.4)
-- [ ] Naufal Rafif — Moving Average & Fitting (bagian 4)
+- [x] **Naufal Rafif** — Moving Average & Fitting (bagian 4)
 - [ ] Naufal Ramadhan — Kesimpulan, Deklarasi AI, Daftar Pustaka, laporan, slide, video
 
 ## Cara mulai (untuk semua anggota)
