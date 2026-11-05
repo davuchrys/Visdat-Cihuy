@@ -24,7 +24,7 @@ Soal lengkap: [Midterm Project.pdf](Midterm%20Project.pdf)
 - [x] **Raffa** — Line & Area Plot (bagian 3.1–3.2 notebook)
 - [x] **Tristan** — Multiple Time Series & Seasonal/Heatmap (bagian 3.3–3.4)
 - [x] **Naufal Rafif** — Moving Average & Fitting (bagian 4)
-- [ ] Naufal Ramadhan — Kesimpulan, Deklarasi AI, Daftar Pustaka, laporan, slide, video
+- [x] **Naufal Ramadhan** — Kesimpulan, Deklarasi AI, Daftar Pustaka, laporan, slide, video
 
 ## Cara mulai (untuk semua anggota)
 
